@@ -40,7 +40,6 @@ sections:
   - type: grid_section
     section_id: services
     title: Как с нами связаться
-    subtitle: What we do
     col_number: two
     grid_items:
       - image: images/IMG_2480.JPG

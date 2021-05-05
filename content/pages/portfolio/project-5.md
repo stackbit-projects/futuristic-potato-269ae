@@ -28,7 +28,7 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-magazine-3.jpg
+    image: images/IMG_1012.JPG
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section

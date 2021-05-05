@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Брюки и джинсы
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/IMG_1592.JPG

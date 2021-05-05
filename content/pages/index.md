@@ -27,7 +27,6 @@ sections:
     grid_items:
       - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 1
-        title: мяу
     subtitle: >-
       Мы долго думали о совместном деле. Рита всегда мечтала открыть маленькую
       кофейню где-нибудь на побережье Испании, а Жанна всегда была рада ее

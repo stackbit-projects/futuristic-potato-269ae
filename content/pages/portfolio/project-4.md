@@ -6,7 +6,7 @@ thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
     image: images/IMG_1008.JPG
-    image_alt: Nature Mockup Magazine 1
+    image_alt: Брюки
     caption: Прямые брюки со стрелками
     width: wide
   - type: text_section

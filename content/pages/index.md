@@ -59,10 +59,7 @@ sections:
       #### Отзывы наших покупателей вы можете увидеть в [разделе актуальное "Вы
       о нас"](https://www.instagram.com/stories/highlights/17887562155940798/) в
       нашем Instagram-аккаунте!
-    actions:
-      - label: Let's start
-        url: /contact
-        style: button
+    actions: []
     image: images/Untitled design (27).png
     image_alt: Illustration
     bg_color: light

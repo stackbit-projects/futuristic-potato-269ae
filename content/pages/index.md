@@ -6,8 +6,8 @@ sections:
     section_id: hero
     title: TwinSis Vintage
     content: >
-      ###### Онлайн-магазин базовых винтажных находок. Создтельницы - сестры
-      Жанна и Рита Марковы.
+      ###### [Онлайн-магазин базовых винтажных находок. Создтельницы - сестры
+      Жанна и Рита Марковы.](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

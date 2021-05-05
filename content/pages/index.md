@@ -55,9 +55,10 @@ sections:
   - type: cta_section
     section_id: cta
     title: Отзывы покупателей
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >
+      #### Отзывы наших покупателей вы можете увидеть [в разделе актуальное "Вы
+      о нас" в нашем Instagram-аккаунте
+      @twinsis_vintage](https://www.instagram.com/stories/highlights/17887562155940798/)!
     actions:
       - label: Let's start
         url: /contact

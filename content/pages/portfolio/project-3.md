@@ -31,7 +31,7 @@ sections:
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
     image: images/IMG_1016.PNG
-    image_alt: The Book 3
+    image_alt: Юбка 3
     width: wide
   - type: text_section
     content: >-

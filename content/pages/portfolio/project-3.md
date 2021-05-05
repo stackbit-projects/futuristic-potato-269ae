@@ -24,11 +24,12 @@ sections:
     width: wide
     caption: Юбка в цветок
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ### Воздушная летняя юбка в цветок. Состав: вискоза 100%. Тугая резинка,
+      невесомая ткань, яркий принт. Размер на маркировке: 36.
+
+
+      ### Цена 1 000 рублей
   - type: image_section
     image: images/IMG_1016.PNG
     image_alt: Юбка 3

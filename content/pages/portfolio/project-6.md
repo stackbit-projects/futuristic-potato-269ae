@@ -70,4 +70,5 @@ seo:
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
 layout: project
+title: пррп
 ---

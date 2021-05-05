@@ -36,15 +36,14 @@ sections:
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      ### Джемпер силуэта oversize с узором. Состав: акрил 100%. Объемные
+      рукава, манжеты на резинках, отложной воротник с молнией, спущенное плечо.
+      Обхват груди 114 см, обхват по низу 90 см (на резинке), рукав 52 см, длина
+      плеч 60 см, длина 71 см.
+
+
+      ### Цена 1 300 рублей
 seo:
   title: Nature Magazine
   description: This is the sample project description

@@ -22,6 +22,7 @@ sections:
     image: images/IMG_0874.JPG
     image_alt: Юбка 2
     width: wide
+    caption: Юбка в цветок
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa

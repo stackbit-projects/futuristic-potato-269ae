@@ -1,5 +1,5 @@
 ---
-title: Рубашки и свитера
+title: 'Рубашки, джемперы и свитеры'
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/IMG_0408.JPG

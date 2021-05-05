@@ -20,7 +20,7 @@ sections:
       ### Цена 900 рублей
   - type: image_section
     image: images/IMG_0874.JPG
-    image_alt: The Book 2
+    image_alt: Юбка 2
     width: wide
   - type: text_section
     content: >-

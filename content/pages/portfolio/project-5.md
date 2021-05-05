@@ -35,6 +35,7 @@ sections:
     image: images/IMG_1012.JPG
     image_alt: Nature Magazine 3
     width: wide
+    caption: 'Джемпер '
   - type: text_section
     content: >
       ### Джемпер силуэта oversize с узором. Состав: акрил 100%. Объемные

@@ -43,8 +43,7 @@ sections:
     subtitle: What we do
     col_number: two
     grid_items:
-      - title: Business design
-        image: images/IMG_2480.JPG
+      - image: images/IMG_2480.JPG
         content: |
           *
       - title: Brand design

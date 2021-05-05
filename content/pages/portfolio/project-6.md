@@ -21,7 +21,7 @@ sections:
 
       ### Цена 1 500 рублей
   - type: image_section
-    image: images/IMG_0991.PNG
+    image: images/IMG_1625.JPG
     image_alt: Subtle 2
     width: wide
   - type: text_section

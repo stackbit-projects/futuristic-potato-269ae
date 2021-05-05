@@ -40,8 +40,13 @@ sections:
     image_alt: Subtle 3
     width: wide
   - type: text_section
-    content: |
-      ### Цена 1 500 рублей
+    content: >
+      ### Базовый пиджак в полоску. Обхват груди 104 см, обхват по низу 104 см,
+      рукав 65 см, ширина плеч 83 см. Подойдет на XS-L. Размер на маркировке:
+      182-92-90.
+
+
+      ### Цена 1 400 рублей
 seo:
   title: Subtle
   description: This is the sample project description

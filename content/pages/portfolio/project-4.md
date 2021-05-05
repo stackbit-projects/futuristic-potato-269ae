@@ -31,7 +31,7 @@ sections:
       ### Цена 1 000 рублей
   - type: image_section
     image: images/IMG_0994.JPG
-    image_alt: Nature Mockup Magazine 3
+    image_alt: Клеш
     width: wide
   - type: text_section
     content: >-

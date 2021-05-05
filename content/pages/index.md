@@ -10,7 +10,7 @@ sections:
       Жанна и Рита Марковы.
 
 
-      Instagram:
+      ###### Instagram:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - type: portfolio_section
     section_id: latest-projects

@@ -23,6 +23,7 @@ sections:
   - type: image_section
     image: images/IMG_1625.JPG
     width: wide
+    caption: Мужская кожаная куртка oversize
   - type: text_section
     content: >
       ### Мужская куртка из натуральной кожи, oversize. Обхват груди 106 см,

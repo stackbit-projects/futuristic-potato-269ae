@@ -63,17 +63,6 @@ sections:
           - Concept development
           - Brand implementation and management
           - Typography
-      - title: Experience design
-        image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
   - type: cta_section
     section_id: cta
     title: Отзывы покупателей

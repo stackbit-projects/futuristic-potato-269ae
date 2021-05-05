@@ -28,8 +28,6 @@ sections:
     grid_items:
       - image: images/logo-1.svg
         image_alt: Logo 1
-      - image: images/logo-3.svg
-        image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
       - image: images/logo-5.svg

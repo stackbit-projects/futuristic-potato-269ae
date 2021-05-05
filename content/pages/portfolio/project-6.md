@@ -5,7 +5,7 @@ thumb_image: images/2021-05-05 15.16.08.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/work-photography-magazine-1.jpg
+    image: images/2021-05-05 15.16.08.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
     width: wide

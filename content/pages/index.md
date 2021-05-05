@@ -44,8 +44,6 @@ sections:
     col_number: two
     grid_items:
       - image: images/IMG_2480.JPG
-        content: |
-          *
       - title: Brand design
         image: images/service-2.svg
         content: |-

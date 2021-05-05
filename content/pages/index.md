@@ -26,7 +26,7 @@ sections:
     subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 1
       - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 4

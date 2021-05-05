@@ -45,11 +45,11 @@ sections:
       - image: images/IMG_2480.JPG
       - image_alt: lorem-ipsum
         content: >
-          ### В direct в Instagram-аккаунте
+          #### В direct в Instagram-аккаунте
           [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
 
 
-          ### По номеру телефону: 8-912-685-33-40, Жанна
+          #### По номеру телефону: 8-912-685-33-40, Жанна
         actions: []
         type: grid_item
   - type: cta_section

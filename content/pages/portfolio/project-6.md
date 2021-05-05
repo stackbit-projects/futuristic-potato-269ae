@@ -55,5 +55,5 @@ seo:
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
 layout: project
-title: Шуба из искусственного меха
+title: Верхняя одежда
 ---

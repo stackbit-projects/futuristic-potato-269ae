@@ -1,5 +1,5 @@
 ---
-subtitle: Brand Development
+subtitle: Принт леопард
 date: '2021-02-06'
 thumb_image: images/2021-05-05 15.16.08.jpg
 thumb_image_alt: Subtle preview

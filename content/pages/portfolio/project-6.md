@@ -22,7 +22,7 @@ sections:
       ### Цена 1 500 рублей
   - type: image_section
     image: images/IMG_1625.JPG
-    image_alt: Subtle 2
+    image_alt: Мужская кожаная куртка oversize
     width: wide
   - type: text_section
     content: >

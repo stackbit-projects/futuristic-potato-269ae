@@ -41,7 +41,7 @@ sections:
     section_id: services
     title: Как с нами связаться
     subtitle: What we do
-    col_number: three
+    col_number: two
     grid_items:
       - title: Business design
         image: images/service-1.svg

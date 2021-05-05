@@ -1,5 +1,4 @@
 ---
-title: Subtle
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: images/2021-05-05 15.16.08.jpg

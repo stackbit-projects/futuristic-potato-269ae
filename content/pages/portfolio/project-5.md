@@ -21,6 +21,7 @@ sections:
     image: images/IMG_1004.JPG
     image_alt: Nature Magazine 2
     width: wide
+    caption: Лонгслив с нашивками
   - type: text_section
     content: >
       ### Лонгслив с нашивками и отложным воротником. Состав: хлопок 60%,

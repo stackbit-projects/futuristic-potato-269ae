@@ -6,7 +6,7 @@ thumb_image_alt: The Book preview
 sections:
   - type: image_section
     image: images/IMG_1025.PNG
-    image_alt: The Book 1
+    image_alt: Юбка 1
     caption: This is the caption of the image
     width: wide
   - type: text_section

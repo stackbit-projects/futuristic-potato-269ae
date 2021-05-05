@@ -43,6 +43,7 @@ sections:
     col_number: two
     grid_items:
       - image: images/IMG_2480.JPG
+        title: мяу
   - type: cta_section
     section_id: cta
     title: Отзывы покупателей

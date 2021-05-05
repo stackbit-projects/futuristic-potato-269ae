@@ -62,6 +62,6 @@ sections:
     actions: []
     image: images/Untitled design (27).png
     image_alt: Illustration
-    bg_color: light
+    bg_color: none
 layout: advanced
 ---

@@ -10,15 +10,14 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      ### Вельветовая юбка длины миди. Состав: хлопок 68%, полиэстер 32%.
+      А-силуэт, есть боковые карманы и шлевки под ремень, посадка на талии.
+      Обхват талии 72 см, обхват бедер 92 см, длина 67 см. Размер на маркировке:
+      S.
+
+
+      ### Цена 900 рублей
   - type: image_section
     image: images/IMG_0874.JPG
     image_alt: The Book 2

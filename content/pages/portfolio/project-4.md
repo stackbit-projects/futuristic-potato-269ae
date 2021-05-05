@@ -7,7 +7,7 @@ sections:
   - type: image_section
     image: images/IMG_1008.JPG
     image_alt: Nature Mockup Magazine 1
-    caption: This is the caption of the image
+    caption: Прямые брюки со стрелками
     width: wide
   - type: text_section
     content: >-

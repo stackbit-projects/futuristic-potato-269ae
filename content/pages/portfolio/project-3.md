@@ -33,6 +33,7 @@ sections:
     image: images/IMG_1016.PNG
     image_alt: Юбка 3
     width: wide
+    caption: Джинсовая мини-юбка
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit

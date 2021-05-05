@@ -23,7 +23,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: О нас
-    col_number: three
+    col_number: two
     grid_items:
       - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 1

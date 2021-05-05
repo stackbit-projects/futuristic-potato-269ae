@@ -20,6 +20,11 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    testimonials: []
+    type: testimonials_section
   - type: grid_section
     section_id: clients
     title: О нас

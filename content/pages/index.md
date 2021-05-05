@@ -44,17 +44,12 @@ sections:
     grid_items:
       - image: images/IMG_2480.JPG
       - image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          *   В direct в Instagram-аккаунте
+          [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   По номеру телефону: 8-912-685-33-40, Жанна
         actions: []
         type: grid_item
   - type: cta_section

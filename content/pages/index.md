@@ -20,6 +20,14 @@ sections:
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    layout_style: mosaic
+    projects_number: 0
+    view_all_label: lorem-ipsum
+    view_all_url: '#'
+    type: portfolio_section
   - type: grid_section
     section_id: clients
     title: О нас

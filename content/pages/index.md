@@ -23,7 +23,6 @@ sections:
   - type: grid_section
     section_id: clients
     title: О нас
-    subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
       - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg

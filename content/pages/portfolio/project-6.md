@@ -14,7 +14,7 @@ sections:
       ### Шуба прямого силуэта. Прорезные карманы, отложной воротник, застежка
       на пуговицах. В идеальном состоянии.
   - type: image_section
-    image: images/work-photography-magazine-2.jpg
+    image: images/IMG_0975.PNG
     image_alt: Subtle 2
     width: wide
   - type: text_section

@@ -36,7 +36,7 @@ sections:
 
       ### Цена 3 000 руб
   - type: image_section
-    image: images/IMG_0976.PNG
+    image: images/IMG_4200.JPG
     image_alt: Subtle 3
     width: wide
   - type: text_section

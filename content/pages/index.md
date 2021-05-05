@@ -44,6 +44,22 @@ sections:
     grid_items:
       - image: images/IMG_2480.JPG
         title: мяу
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
   - type: cta_section
     section_id: cta
     title: Отзывы покупателей

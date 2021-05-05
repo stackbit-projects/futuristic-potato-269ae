@@ -22,7 +22,7 @@ sections:
       ### Обхват груди 100 см, обхват по низу 104 см, рукав 63 см, ширина плеч
       43 см, длина 68 см.
   - type: image_section
-    image: images/work-photography-magazine-3.jpg
+    image: images/IMG_0976.PNG
     image_alt: Subtle 3
     width: wide
   - type: text_section

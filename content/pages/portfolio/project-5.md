@@ -22,11 +22,14 @@ sections:
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ### Лонгслив с нашивками и отложным воротником. Состав: хлопок 60%,
+      полиэстер 40%. Силуэт oversize, спущенное плечо, манжеты на резинках.
+      Обхват груди 114 см, обхват по низу 88 см (на резинке), рукав 51 см,
+      ширина плеч 49 см, длина 57 см. Размер на маркировке: S.
+
+
+      ### Цена 1 100 рублей
   - type: image_section
     image: images/IMG_1012.JPG
     image_alt: Nature Magazine 3

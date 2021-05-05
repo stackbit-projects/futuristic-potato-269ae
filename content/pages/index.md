@@ -17,7 +17,6 @@ sections:
     layout_style: tiles
     title: Каталог
     projects_number: 8
-    view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
     section_id: clients

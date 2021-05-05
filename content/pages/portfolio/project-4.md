@@ -20,6 +20,7 @@ sections:
     image: images/IMG_1592 (1).JPG
     image_alt: Nature Mockup Magazine 2
     width: wide
+    caption: Джинсовые шорты
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa

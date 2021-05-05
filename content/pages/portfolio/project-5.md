@@ -10,15 +10,13 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: >
+      ### Шоколадная атласная блузка. Слегка приталенный силуэт, манжеты на
+      пуговицах. Обхват груди 94 см, обхват по низу 104 см, рукав 62 см, ширина
+      плеч 42 см, длина 64 см. Размер на маркировке: M.
+
+
+      ### Цена 1 000 рублей
   - type: image_section
     image: images/work-magazine-2.jpg
     image_alt: Nature Magazine 2

@@ -43,16 +43,6 @@ sections:
     col_number: two
     grid_items:
       - image: images/IMG_2480.JPG
-      - title: Brand design
-        image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
   - type: cta_section
     section_id: cta
     title: Отзывы покупателей

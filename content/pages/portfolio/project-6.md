@@ -39,6 +39,7 @@ sections:
     image: images/IMG_4200.JPG
     image_alt: Subtle 3
     width: wide
+    caption: Базовый пиджак в полоску
   - type: text_section
     content: >
       ### Базовый пиджак в полоску. Обхват груди 104 см, обхват по низу 104 см,

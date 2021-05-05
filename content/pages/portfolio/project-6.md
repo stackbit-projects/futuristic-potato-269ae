@@ -5,7 +5,7 @@ thumb_image: images/2021-05-05 15.16.08.jpg
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
-    image: images/2021-05-05 15.16.08.jpg
+    image: images/superb-steel.PNG
     image_alt: Subtle 1
     caption: Шуба из искусственного меха под леопарда
     width: wide

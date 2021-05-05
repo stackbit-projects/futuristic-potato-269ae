@@ -22,11 +22,13 @@ sections:
     width: wide
     caption: Джинсовые шорты
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ### Шорты из денима классического голубого оттенка. Состав: хлопок 100%.
+      Высокая талия, есть шлевки под ремень, прямой силуэт, необработанный край.
+      Обхват талии 76 см, обхват бедер 96 см, длина 54 см. Размер: EU 38.
+
+
+      ### Цена 1 000 рублей
   - type: image_section
     image: images/work-book-3.jpg
     image_alt: Nature Mockup Magazine 3

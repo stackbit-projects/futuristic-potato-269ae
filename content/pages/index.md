@@ -27,8 +27,6 @@ sections:
     grid_items:
       - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 1
-      - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
-        image_alt: Logo 4
   - type: grid_section
     section_id: services
     title: Как с нами связаться

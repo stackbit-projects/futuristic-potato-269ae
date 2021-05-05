@@ -17,7 +17,7 @@ sections:
 
       ### Цена 800 рублей
   - type: image_section
-    image: images/work-book-2.jpg
+    image: images/IMG_1592 (1).JPG
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section

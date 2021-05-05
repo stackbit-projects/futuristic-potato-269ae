@@ -43,7 +43,6 @@ sections:
     col_number: two
     grid_items:
       - image: images/IMG_2480.JPG
-        title: мяу
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum

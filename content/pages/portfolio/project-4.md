@@ -30,7 +30,7 @@ sections:
 
       ### Цена 1 000 рублей
   - type: image_section
-    image: images/work-book-3.jpg
+    image: images/IMG_0994.JPG
     image_alt: Nature Mockup Magazine 3
     width: wide
   - type: text_section

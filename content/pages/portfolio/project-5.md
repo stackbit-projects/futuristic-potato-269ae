@@ -1,5 +1,5 @@
 ---
-title: Nature Magazine
+title: Рубашки и свитера
 subtitle: Editorial Design
 date: '2021-01-10'
 thumb_image: images/IMG_0408.JPG

@@ -56,9 +56,9 @@ sections:
     section_id: cta
     title: Отзывы покупателей
     content: >
-      #### Отзывы наших покупателей вы можете увидеть [в разделе актуальное "Вы
-      о нас" в нашем Instagram-аккаунте
-      @twinsis_vintage](https://www.instagram.com/stories/highlights/17887562155940798/)!
+      #### Отзывы наших покупателей вы можете увидеть в [разделе актуальное "Вы
+      о нас"](https://www.instagram.com/stories/highlights/17887562155940798/) в
+      нашем Instagram-аккаунте!
     actions:
       - label: Let's start
         url: /contact

@@ -28,7 +28,7 @@ sections:
     grid_items:
       - image: images/logo-1.svg
         image_alt: Logo 1
-      - image: images/logo-4.svg
+      - image: images/TWINSIS_VINTAGE_card_90x50mm_1_page-0001.jpg
         image_alt: Logo 4
       - image: images/logo-5.svg
         image_alt: Logo 5

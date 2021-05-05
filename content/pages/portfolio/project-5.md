@@ -18,7 +18,7 @@ sections:
 
       ### Цена 1 000 рублей
   - type: image_section
-    image: images/work-magazine-2.jpg
+    image: images/IMG_1004.JPG
     image_alt: Nature Magazine 2
     width: wide
   - type: text_section

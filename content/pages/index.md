@@ -63,7 +63,7 @@ sections:
       - label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
+    image: images/Untitled design (27).png
     image_alt: Illustration
     bg_color: light
 layout: advanced

@@ -7,7 +7,7 @@ sections:
   - type: image_section
     image: images/2021-05-05 15.16.08.jpg
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption: Шуба из искусственного меха под леопарда
     width: wide
   - type: text_section
     content: >-

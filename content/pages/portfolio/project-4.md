@@ -33,7 +33,7 @@ sections:
     image: images/IMG_0994.JPG
     image_alt: Клеш
     width: wide
-    caption: 'Брюки-клеш '
+    caption: Брюки-клеш со средней посадкой
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit

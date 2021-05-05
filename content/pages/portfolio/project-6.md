@@ -18,11 +18,9 @@ sections:
     image_alt: Subtle 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      ### Обхват груди 100 см, обхват по низу 104 см, рукав 63 см, ширина плеч
+      43 см, длина 68 см.
   - type: image_section
     image: images/work-photography-magazine-3.jpg
     image_alt: Subtle 3

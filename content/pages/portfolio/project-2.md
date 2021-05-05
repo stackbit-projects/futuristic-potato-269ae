@@ -2,7 +2,7 @@
 title: Aimi
 subtitle: Brand Development
 date: '2020-03-10'
-thumb_image: images/work-branding-1-thumb.jpg
+thumb_image: images/IMG_0982.PNG
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section

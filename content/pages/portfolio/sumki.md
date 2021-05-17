@@ -52,4 +52,5 @@ seo:
   type: stackbit_page_meta
 layout: project
 thumb_image: images/great-olive.PNG
+thumb_image_alt: Другое
 ---

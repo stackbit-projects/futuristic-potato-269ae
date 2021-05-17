@@ -15,17 +15,13 @@ sections:
     width: regular
     type: image_section
     image: images/IMG_0999.JPG
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      #### Винтажная сумочка из экокожи. Два вида карманов, прямоугольная форма,
+      тонкая ручка, благородный шоколадный оттенок, хорошее состояние. Высота 22
+      см, длина 17 см, ширина 3 см.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### Цена 1 100 рублей
     type: text_section
 seo:
   title: ''

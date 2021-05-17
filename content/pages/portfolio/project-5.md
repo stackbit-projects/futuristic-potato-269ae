@@ -2,7 +2,7 @@
 title: 'Рубашки, джемперы и свитеры'
 date: '2021-01-10'
 thumb_image: images/IMG_0408.JPG
-thumb_image_alt: Nature Magazine preview
+thumb_image_alt: 'Рубашки, джемперы и свитеры'
 sections:
   - type: image_section
     image: images/IMG_1003.JPG

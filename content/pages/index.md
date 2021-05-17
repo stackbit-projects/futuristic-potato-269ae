@@ -16,7 +16,7 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Каталог
-    projects_number: 6
+    projects_number: 8
     view_all_url: portfolio
   - type: grid_section
     section_id: clients

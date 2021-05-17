@@ -34,17 +34,7 @@ sections:
     width: regular
     type: image_section
     image: images/IMG_1011.JPG
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "#### Винтажные оригинальные казаки Geox из натуральной кожи. Заражённый квадратный мыс, очень удобная колодка, устойчивый каблук, боковая застёжка на молнии, хорошее состояние. Размер: 40. Высота голенища 27 см, ширина голенища 16 см (верх), ширина щиколотки 13 см, высота каблука 6 см, ширина стопы 13 см. \_\n\n#### Цена 1 500 рублей \n"
     type: text_section
 seo:
   title: ''

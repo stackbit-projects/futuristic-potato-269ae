@@ -72,4 +72,5 @@ seo:
       value: images/work-magazine-1.jpg
       relativeUrl: true
 layout: project
+subtitle: 'Рубашки, джемперы и свитеры'
 ---

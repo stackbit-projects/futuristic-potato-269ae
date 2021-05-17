@@ -7,6 +7,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/pleasant-mango.JPG
   - content: >-
       ## Lorem ipsum
 

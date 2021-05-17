@@ -3,7 +3,11 @@ title: Обувь
 subtitle: lorem-ipsum
 date: '2021-05-17'
 thumb_image_alt: lorem-ipsum
-sections: []
+sections:
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: ''
   description: ''

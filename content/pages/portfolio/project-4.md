@@ -2,7 +2,6 @@
 title: Брюки и джинсы
 date: '2020-05-10'
 thumb_image: images/IMG_1592.JPG
-thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
     image: images/IMG_1008.JPG

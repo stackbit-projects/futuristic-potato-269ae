@@ -36,17 +36,14 @@ sections:
 
       #### Цена 1 100 рублей
     type: text_section
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      #### Остроносые удлиненные казаки. Made in Italy. Произведена замена
+      набоек на новые итальянские. Размер: 38. Высота голенища 38 см, ширина
+      голенища 15 см, ширина щиколотки 11 см, высота каблука 10 см, ширина стопы
+      10 см.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### Цена 1 300 рублей
     type: text_section
 seo:
   title: ''

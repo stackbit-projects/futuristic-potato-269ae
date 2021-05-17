@@ -4,7 +4,7 @@ date: '2021-05-17'
 thumb_image_alt: lorem-ipsum
 sections:
   - image_alt: lorem-ipsum
-    caption: l
+    caption: Клатч на цепочке
     width: regular
     type: image_section
     image: images/IMG_0998.JPG

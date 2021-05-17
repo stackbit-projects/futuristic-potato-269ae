@@ -8,17 +8,12 @@ sections:
     width: regular
     type: image_section
     image: images/pleasant-mango.JPG
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      #### Двухцветные лоферы с острым мысом. Экокожи, невысокий каблук, есть
+      небольшие потёртости.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### Цена 1 300 рублей
     type: text_section
 seo:
   title: ''

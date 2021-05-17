@@ -27,6 +27,7 @@ sections:
     width: regular
     type: image_section
     image: images/IMG_1001.JPG
+    caption: Клатч из экокожи под питона
 seo:
   title: ''
   description: ''

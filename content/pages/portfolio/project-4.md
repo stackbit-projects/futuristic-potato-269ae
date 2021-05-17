@@ -67,4 +67,5 @@ seo:
       value: images/work-book-1.jpg
       relativeUrl: true
 layout: project
+thumb_image_alt: Брюки и джинсы
 ---

@@ -7,6 +7,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: images/IMG_0998.JPG
   - content: >-
       ## Lorem ipsum
 

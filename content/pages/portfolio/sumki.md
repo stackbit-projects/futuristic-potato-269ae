@@ -8,17 +8,7 @@ sections:
     width: regular
     type: image_section
     image: images/IMG_0998.JPG
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: "#### Маленький клатч на цепочке. Два вида ткани, принт под зебру, оригинальная форма, внутри есть кармашек. Высота 10 см, длина 16 см, ширина 5,5 см.\_\n\n#### Цена 1 300 рублей\n"
     type: text_section
 seo:
   title: ''

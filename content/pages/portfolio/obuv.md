@@ -30,7 +30,7 @@ sections:
       #### Цена 1 300 рублей
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Казаки из натуральной кожи
     width: regular
     type: image_section
     image: images/IMG_1011.JPG

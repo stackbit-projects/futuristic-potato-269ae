@@ -2,7 +2,7 @@
 title: Юбки
 date: '2020-04-10'
 thumb_image: images/IMG_1015.JPG
-thumb_image_alt: The Book preview
+thumb_image_alt: Юбки
 sections:
   - type: image_section
     image: images/IMG_1025.PNG

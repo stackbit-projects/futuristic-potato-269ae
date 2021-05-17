@@ -11,7 +11,7 @@ sections:
   - content: "#### Маленький клатч на цепочке. Два вида ткани, принт под зебру, оригинальная форма, внутри есть кармашек. Высота 10 см, длина 16 см, ширина 5,5 см.\_\n\n#### Цена 1 300 рублей\n"
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Сумочка из экокожи
     width: regular
     type: image_section
     image: images/IMG_0999.JPG

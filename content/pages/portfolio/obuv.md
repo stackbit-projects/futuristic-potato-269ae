@@ -16,7 +16,7 @@ sections:
       #### Цена 1 300 рублей
     type: text_section
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+    caption: Остроносые казаки
     width: regular
     type: image_section
     image: images/IMG_1009.JPG

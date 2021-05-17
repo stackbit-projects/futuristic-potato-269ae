@@ -15,6 +15,10 @@ sections:
 
       #### Цена 1 300 рублей
     type: text_section
+  - image_alt: lorem-ipsum
+    caption: lorem-ipsum
+    width: regular
+    type: image_section
 seo:
   title: ''
   description: ''

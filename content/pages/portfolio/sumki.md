@@ -28,17 +28,13 @@ sections:
     type: image_section
     image: images/IMG_1001.JPG
     caption: Клатч из экокожи под питона
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      #### Винтажный клатч из экокожи под питона. Прямоугольна форма, два
+      отделения и внутренний карман, тонкий ремешок, застёжка на кнопку,
+      эффектный табачный оттенок. Длина 28 см, высота 16 см, ширина 2,5 см.
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      #### Цена 1 100 рублей
     type: text_section
 seo:
   title: ''

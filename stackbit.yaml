@@ -404,6 +404,7 @@ models:
             - action
       - name: html
         type: html
+        label: timeline
     labelField: title
   content_section:
     type: object

@@ -62,7 +62,7 @@ sections:
     image_alt: Illustration
     bg_color: none
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Test
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

@@ -61,22 +61,6 @@ sections:
     image: images/Untitled design (27).png
     image_alt: Illustration
     bg_color: none
-  - section_id: lorem-ipsum
-    title: Test
-    subtitle: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: content_section
 layout: advanced
 seo:
   title: ''

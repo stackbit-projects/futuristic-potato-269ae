@@ -62,11 +62,13 @@ sections:
     image_alt: Illustration
     bg_color: none
   - section_id: lorem-ipsum
-    title: Kusok Timelin'a
+    title: Развитие и успехи нашего проекта
     content: >
-        <iframe width="100%" height="700px" src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0" allowfullscreen></iframe>
-        <div><a  style="font-size: 12px; text-decoration: none;" title="Project timeline template" href="https://time.graphics">Project timeline template</a></div>  
-
+      <iframe width="100%" height="700px"
+      src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0"
+      allowfullscreen></iframe> <div><a  style="font-size: 12px;
+      text-decoration: none;" title="Project timeline template"
+      href="https://time.graphics">Project timeline template</a></div>  
     actions: []
     type: hero_section
 layout: advanced

@@ -64,7 +64,8 @@ sections:
   - section_id: lorem-ipsum
     title: Kusok Timelin'a
     content: >
-    
+    <iframe width="100%" height="400" src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0" allowfullscreen></iframe>
+    <div><a  style="font-size: 12px; text-decoration: none;" title="Milestone chart" href="https://time.graphics">Milestone chart</a></div>
       
     actions: []
     type: hero_section

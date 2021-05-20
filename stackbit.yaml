@@ -402,6 +402,8 @@ models:
           type: model
           models:
             - action
+      - name: html
+        type: html
     labelField: title
   content_section:
     type: object

@@ -64,11 +64,7 @@ sections:
   - section_id: lorem-ipsum
     title: Kusok Timelin'a
     content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmo
+      
     actions: []
     type: hero_section
 layout: advanced

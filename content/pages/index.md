@@ -63,7 +63,7 @@ sections:
     bg_color: none
   - section_id: lorem-ipsum
     title: Kusok Timelin'a
-    content: >-
+    content: >
       
     actions: []
     type: hero_section

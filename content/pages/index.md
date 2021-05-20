@@ -64,7 +64,7 @@ sections:
   - section_id: lorem-ipsum
     title: Kusok Timelin'a
     content: >
-        <iframe width="200%" height="100%" src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="300%" src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0" allowfullscreen></iframe>
         <div><a  style="font-size: 12px; text-decoration: none;" title="Project timeline template" href="https://time.graphics">Project timeline template</a></div>  
 
     actions: []

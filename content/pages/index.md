@@ -13,7 +13,7 @@ sections:
       ##### Instagram:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: 'Инструкция для удобной навигации по нашему сайту:'
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
     content: |

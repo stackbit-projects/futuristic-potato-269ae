@@ -38,12 +38,5 @@
             }
         ]
     },
-    "domain": "https://twinsis-vintage-269ae.netlify.app",
-    "header": {
-        "title": "lorem-ipsum",
-        "logo_alt": "lorem-ipsum",
-        "has_nav": true,
-        "nav_links": [],
-        "type": "header"
-    }
+    "domain": "https://twinsis-vintage-269ae.netlify.app"
 }

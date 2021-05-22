@@ -16,6 +16,7 @@ sections:
     title: Инструкция для удобной навигации по нашему сайту
     image_alt: lorem-ipsum
     type: content_section
+    subtitle: 'Мы решили '
   - type: portfolio_section
     section_id: latest-projects
     layout_style: tiles

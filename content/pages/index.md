@@ -14,17 +14,11 @@ sections:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      #### Для более удобной навигации по нашему сайту мы записали полезный
+      скринкаст. Переходите по
+      [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
+      смотрите видео и возвращайтесь к нашим разделам!
     actions: []
     type: hero_section
   - type: portfolio_section

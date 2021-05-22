@@ -16,8 +16,6 @@ sections:
     title: 'Инструкция для удобной навигации по нашему сайту:'
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: |
-      *
     type: content_section
   - type: portfolio_section
     section_id: latest-projects

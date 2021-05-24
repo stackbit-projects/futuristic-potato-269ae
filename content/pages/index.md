@@ -19,7 +19,7 @@ sections:
       скринкаст. Переходите по
       [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
       смотрите видео и возвращайтесь к нашим разделам!
-    actions:
+    actions: []
       - label: lorem-ipsum
         url: '#'
         style: link

@@ -278,6 +278,8 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
+      - name: ''
+        type: string
   post:
     type: page
     urlPath: /blog/{slug}
@@ -436,6 +438,7 @@ models:
         description: The text content of the section
       - name: HTML
         type: html
+        label: HTML
     labelField: title
   cta_section:
     type: object

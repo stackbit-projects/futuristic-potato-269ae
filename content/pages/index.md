@@ -78,14 +78,7 @@ sections:
       allowfullscreen></iframe> <div><a  style="font-size: 12px;
       text-decoration: none;" title="Project timeline template"
       href="https://time.graphics">Project timeline template</a></div>  
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: hero_section
 layout: advanced
 seo:

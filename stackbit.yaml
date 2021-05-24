@@ -179,6 +179,9 @@ models:
             - stackbit_page_meta
             - portfolio_section
             - posts_section
+            - section
+            - testimonial
+            - testimonials_section
       - type: model
         name: seo
         models:

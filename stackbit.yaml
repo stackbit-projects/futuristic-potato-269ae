@@ -164,24 +164,14 @@ models:
         items:
           type: model
           models:
-            - action
-            - cta_section
-            - text_section
-            - content_section
-            - footer
-            - form_section
-            - form_field
-            - grid_section
-            - grid_item
-            - header
             - hero_section
-            - image_section
-            - stackbit_page_meta
+            - content_section
+            - cta_section
+            - grid_section
             - portfolio_section
             - posts_section
-            - section
-            - testimonial
             - testimonials_section
+            - form_section
       - type: model
         name: seo
         models:
@@ -288,9 +278,6 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: HTML_Video
-        type: html
-        label: HTML Video
   post:
     type: page
     urlPath: /blog/{slug}
@@ -447,9 +434,8 @@ models:
         name: content
         label: Content
         description: The text content of the section
-      - name: HTML
-        type: html
-        label: HTML
+      - name: ''
+        type: string
     labelField: title
   cta_section:
     type: object

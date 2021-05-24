@@ -278,7 +278,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: HTML Video
+      - name: HTML_Video
         type: html
   post:
     type: page

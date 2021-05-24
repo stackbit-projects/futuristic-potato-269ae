@@ -178,7 +178,7 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: HTML_Video
-        type: string
+        type: html
   blog:
     type: page
     urlPath: /blog

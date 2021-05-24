@@ -279,7 +279,7 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: string
+        type: html
   post:
     type: page
     urlPath: /blog/{slug}

@@ -162,7 +162,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: color
+          type: boolean
       - type: model
         name: seo
         models:

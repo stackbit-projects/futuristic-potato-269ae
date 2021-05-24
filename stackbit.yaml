@@ -437,7 +437,7 @@ models:
       - name: HTML
         type: html
       - name: ''
-        type: string
+        type: slug
     labelField: title
   cta_section:
     type: object

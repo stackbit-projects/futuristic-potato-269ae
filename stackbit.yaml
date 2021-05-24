@@ -167,6 +167,7 @@ models:
             - action
             - cta_section
             - text_section
+            - content_section
       - type: model
         name: seo
         models:

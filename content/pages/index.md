@@ -14,7 +14,7 @@ sections:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - section_id: Instruction
     title: Инструкция по пользованию сайтом
-    content: >
+    content: >+
       ##### Для более удобной навигации по нашему сайту мы записали полезный
       скринкаст.
 
@@ -23,8 +23,6 @@ sections:
       [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
       смотрите видео и возвращайтесь к нашим разделам!
 
-
-      ![](https://www.youtube.com/watch?v=h0LVnnoViIA)
     actions: []
     type: hero_section
   - type: portfolio_section

@@ -18,8 +18,8 @@ sections:
       ##### Для более удобной навигации по нашему сайту мы записали полезный
       скринкаст. 
 
-
-      https://www.youtube.com/watch?v=h0LVnnoViIA
+<iframe width="1280" height="800" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
 
 
       Переходите по

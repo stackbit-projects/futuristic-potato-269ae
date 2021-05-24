@@ -162,7 +162,8 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: html
+          type: model
+          models: []
       - type: model
         name: seo
         models:

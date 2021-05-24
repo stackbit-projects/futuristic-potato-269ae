@@ -6,24 +6,27 @@ sections:
     section_id: hero
     title: TwinSis Vintage
     content: >
-      ##### Онлайн-магазин базовых винтажных находок. Создательницы - сестры
+      ##### Онлайн-магазин базовых винтажных находок. Создтельницы - сестры
       Жанна и Рита Марковы.
 
 
       ##### Instagram:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
-  - section_id: Instruction
+  - section_id: lorem-ipsum
     title: Инструкция по пользованию сайтом
-    content: >+
+    content: >
       ##### Для более удобной навигации по нашему сайту мы записали полезный
-      скринкаст.
-
-
-      Переходите по
+      скринкаст. Переходите по
       [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
       смотрите видео и возвращайтесь к нашим разделам!
-
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: hero_section
   - type: portfolio_section
     section_id: latest-projects

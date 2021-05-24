@@ -176,6 +176,9 @@ models:
             - header
             - hero_section
             - image_section
+            - stackbit_page_meta
+            - portfolio_section
+            - posts_section
       - type: model
         name: seo
         models:

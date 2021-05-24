@@ -12,13 +12,13 @@ sections:
 
       ##### Instagram:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
-  - section_id: lorem-ipsum
+  - section_id: Instruction
     title: Инструкция по пользованию сайтом
     content: >
       ##### Для более удобной навигации по нашему сайту мы записали полезный
       скринкаст. 
 
-    
+
 
 
       Переходите по

@@ -435,7 +435,7 @@ models:
         label: Content
         description: The text content of the section
       - name: ''
-        type: image
+        type: html
     labelField: title
   cta_section:
     type: object

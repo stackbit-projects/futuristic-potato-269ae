@@ -162,16 +162,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: model
-          models:
-            - hero_section
-            - content_section
-            - cta_section
-            - grid_section
-            - portfolio_section
-            - posts_section
-            - testimonials_section
-            - form_section
+          type: html
       - type: model
         name: seo
         models:
@@ -280,6 +271,7 @@ models:
         label: Seo
       - name: HTML_Video
         type: html
+        label: HTML Video
   post:
     type: page
     urlPath: /blog/{slug}

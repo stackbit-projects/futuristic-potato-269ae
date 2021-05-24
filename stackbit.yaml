@@ -168,6 +168,8 @@ models:
             - cta_section
             - text_section
             - content_section
+            - footer
+            - form_section
       - type: model
         name: seo
         models:

@@ -436,6 +436,8 @@ models:
         description: The text content of the section
       - name: HTML
         type: html
+      - name: ''
+        type: string
     labelField: title
   cta_section:
     type: object

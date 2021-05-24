@@ -51,7 +51,10 @@ window.removeMainNavigationHandlers = function() {
 	}
 };
 
-
+window.addEventListener('resize', function () {
+  if (document.querySelector('.js-nav-toggle').offsetParent === null) {
+    document.body.classList.remove('js-nav-open');
+  }
 }, true);
 
 };

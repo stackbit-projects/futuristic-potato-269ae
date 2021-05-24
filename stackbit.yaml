@@ -162,7 +162,7 @@ models:
         label: Sections
         description: Page sections
         items:
-          type: number
+          type: boolean
       - type: model
         name: seo
         models:

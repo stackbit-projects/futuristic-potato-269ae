@@ -163,7 +163,8 @@ models:
         description: Page sections
         items:
           type: model
-          models: []
+          models:
+            - action
       - type: model
         name: seo
         models:

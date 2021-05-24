@@ -170,6 +170,9 @@ models:
             - content_section
             - footer
             - form_section
+            - form_field
+            - grid_section
+            - grid_item
       - type: model
         name: seo
         models:

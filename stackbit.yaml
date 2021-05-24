@@ -173,6 +173,9 @@ models:
             - form_field
             - grid_section
             - grid_item
+            - header
+            - hero_section
+            - image_section
       - type: model
         name: seo
         models:

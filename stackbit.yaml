@@ -408,7 +408,7 @@ models:
       - name: html
         type: html
         label: timeline
-      - name: ''
+      - name: HTML_VIDEO
         type: html
     labelField: title
   content_section:

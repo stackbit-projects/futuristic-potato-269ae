@@ -20,8 +20,7 @@ sections:
       [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
       смотрите видео и возвращайтесь к нашим разделам!
       <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-      
+            
       <iframe width="100%" height="700px"
       src="https://time.graphics/ru/embed?v=1\&id=508715" frameborder="0"
       allowfullscreen>\</iframe> \<div>\<a  style="font-size: 12px;

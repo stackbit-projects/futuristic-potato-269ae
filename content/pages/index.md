@@ -9,7 +9,6 @@ sections:
       Онлайн-магазин базовых винтажных находок. Создательницы - сестры Жанна и
       Рита Марковы.
 
-
       ##### Instagram:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - section_id: lorem-ipsum

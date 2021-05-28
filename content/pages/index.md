@@ -14,7 +14,7 @@ sections:
       [@twinsis_vintage](https://www.instagram.com/twinsis_vintage/?hl=ru)
   - section_id: lorem-ipsum
     title: Инструкция по пользованию сайтом
-    content: >+
+    content: >
       <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
       ##### Для более удобной навигации по нашему сайту мы записали полезный
       скринкаст. Переходите по

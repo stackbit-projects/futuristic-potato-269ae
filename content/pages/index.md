@@ -81,7 +81,7 @@ sections:
   - section_id: lorem-ipsum
     title: Развитие и успехи нашего проекта
     content: >
-    <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <iframe width="100%" height="700px"
       src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0"
       allowfullscreen></iframe> <div><a  style="font-size: 12px;

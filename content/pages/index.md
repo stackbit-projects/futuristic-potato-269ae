@@ -25,7 +25,7 @@ sections:
       src="https://time.graphics/ru/embed?v=1\&id=508715" frameborder="0"
       allowfullscreen></iframe> <div><a  style="font-size: 12px;
       text-decoration: none;" title="Project timeline template"
-      href="https://time.graphics">Project timeline template\</a>\</div>  
+      href="https://time.graphics">Project timeline template</a></div>  
 
     actions: []
     type: hero_section

@@ -409,7 +409,7 @@ models:
         type: html
         label: timeline
       - name: ''
-        type: string
+        type: html
     labelField: title
   content_section:
     type: object

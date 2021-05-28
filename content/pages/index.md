@@ -15,12 +15,14 @@ sections:
   - section_id: lorem-ipsum
     title: Инструкция по пользованию сайтом
     content: >
-      <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-      ##### Для более удобной навигации по нашему сайту мы записали полезный
-      скринкаст. Переходите по
-      [ссылке](https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
+      <iframe width="1042" height="651"
+      src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>   ##### Для более удобной навигации по нашему
+      сайту мы записали полезный скринкаст. Переходите по ссылке
+      (https://drive.google.com/file/d/11BDVGHcbZNvAyi1CmJ6Sr7Ee4Gu03iF4/view?usp=sharing),
       смотрите видео и возвращайтесь к нашим разделам!
-    
     actions: []
     type: hero_section
   - type: portfolio_section
@@ -75,7 +77,10 @@ sections:
   - section_id: lorem-ipsum
     title: Развитие и успехи нашего проекта
     content: >
-      <iframe width="1042" height="651" src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="1042" height="651"
+      src="https://www.youtube.com/embed/h0LVnnoViIA" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <iframe width="100%" height="700px"
       src="https://time.graphics/ru/embed?v=1&id=508715" frameborder="0"
       allowfullscreen></iframe> <div><a  style="font-size: 12px;

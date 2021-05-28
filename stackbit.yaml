@@ -179,6 +179,7 @@ models:
         label: Seo
       - name: HTML_Video
         type: html
+        label: HTML Video
   blog:
     type: page
     urlPath: /blog
@@ -407,6 +408,8 @@ models:
       - name: html
         type: html
         label: timeline
+      - name: ''
+        type: string
     labelField: title
   content_section:
     type: object
